@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313566848804",
+    "project_id": "apirest-bf50f",
+    "storage_bucket": "apirest-bf50f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313566848804:android:c982a29efc1b0756f4b5b1",
+        "android_client_info": {
+          "package_name": "com.example.api_rest_proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313566848804-at3q1h7cu5ug01tuus5t2fesruvqk5sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDElV5WrkK7Bbdi2hm5lpJusNNXLM0JYTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313566848804-at3q1h7cu5ug01tuus5t2fesruvqk5sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
